@@ -1,0 +1,29 @@
+.code-cell {
+  height: calc(100% - 10px);
+  display: flex;
+}
+.progress-cover-container {
+  background-color: #fff;
+  flex-grow: 1;
+  height: 100%;
+}
+.progress-cover-container .progress-cover {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-right: 10%;
+  padding-left: 10%;
+  animation: fadeIn 0.5s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

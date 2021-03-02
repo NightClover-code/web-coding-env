@@ -1,0 +1,24 @@
+.iframe-wrapper {
+  position: relative;
+  height: 100%;
+  flex-grow: 1;
+}
+.iframe-error {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  color: red;
+}
+.iframe-wrapper iframe {
+  height: 100%;
+  width: 100%;
+}
+.react-draggable-transparent-selection .iframe-wrapper:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0;
+}
