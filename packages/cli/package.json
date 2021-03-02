@@ -1,6 +1,6 @@
 {
   "name": "web-coding-env",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "bin": "dist/index.js",
   "files": [
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "tsc --watch --preserveWatchOutput",
-    "prepublishOnly": "esbuild src/index.ts --platform=node --outfile=dist/index.js --bundle --minify '--define:process.env.NODE_ENV=\"production\"'"
+    "prepublishOnly": "esbuild src/index.ts --platform=node --outfile=dist/index.js --bundle --minify --define:process.env.NODE_ENV=\"production\""
   },
   "keywords": [],
   "author": "",
