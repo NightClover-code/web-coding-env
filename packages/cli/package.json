@@ -1,6 +1,6 @@
 {
   "name": "web-coding-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": "dist/index.js",
   "files": [
