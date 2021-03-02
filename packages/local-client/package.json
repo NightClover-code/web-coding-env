@@ -1,5 +1,5 @@
 {
-  "name": "local-client",
+  "name": "@web-coding-env/local-client",
   "version": "1.0.0",
   "files": [
     "build"

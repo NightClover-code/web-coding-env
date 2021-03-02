@@ -1,7 +1,7 @@
 //importing command & serve & path
 import path from 'path';
 import { Command } from 'commander';
-import { serve } from 'local-api';
+import { serve } from '@web-coding-env/local-api';
 //checking if in production mode
 const isProduction = process.env.NODE_ENV === 'production';
 //serve command

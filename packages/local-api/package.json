@@ -1,5 +1,5 @@
 {
-  "name": "local-api",
+  "name": "@web-coding-env/local-api",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -18,6 +18,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "http-proxy-middleware": "^1.0.6"
+    "http-proxy-middleware": "^1.0.6",
+    "@web-coding-env/local-client": "^1.0.0"
   }
 }

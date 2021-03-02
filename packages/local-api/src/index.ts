@@ -24,7 +24,7 @@ export const serve = (
   } else {
     //finding index.html path
     const packagePath = require.resolve(
-      '@web-code-cli/local-client/build/index.html'
+      '@web-coding-env/local-client/build/index.html'
     );
     app.use(express.static(path.dirname(packagePath)));
   }
