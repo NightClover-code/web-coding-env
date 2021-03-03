@@ -4,8 +4,9 @@ The best web coding environment where you can safely write and execute javascrip
 ![](./public/images/preview.png)
 # Getting Started
 This Project uses a CLI to start a local express API, which serves the react app. To get started, install the package from npm or yarn as shown below:
-
+<br/>
 `npm install web-coding-env@latest`
 <br />
 or
+<br />
 `yarn add web-coding-env@latest`
