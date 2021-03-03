@@ -1,6 +1,6 @@
 {
   "name": "web-coding-env",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "bin": "dist/index.js",
   "files": [
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@types/node": "^14.14.31",
-    "@web-coding-env/local-api": "^1.0.0",
+    "@web-coding-env/local-api": "^1.0.5",
     "commander": "^7.1.0",
     "esbuild": "0.8.26",
     "typescript": "^4.2.2"
