@@ -1,6 +1,6 @@
 {
   "name": "@web-coding-env/local-api",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
     "typescript": "^4.2.2"
   },
   "dependencies": {
-    "@web-coding-env/local-client": "^1.0.0",
+    "@web-coding-env/local-client": "^1.0.7",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.6"
