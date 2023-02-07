@@ -29,7 +29,7 @@ You can open your own file and start the server on any port you want by executin
 When you open the app for the first time, you will receive instructions on how to use it.
 
 ## Author
-
 - [@achrafdev](https://achrafdev.com)
 
-### Thanks for sharing 🚀
+**Thanks for sharing** 🚀
+
